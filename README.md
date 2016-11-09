@@ -3,3 +3,5 @@ An assignment for CSC209. Note to UofT students, please **do not plagarize**. Ma
 ---
 
 A traffic monitoring and guidance system that coordinates cars going through an intersection, by enforcing ordering between car arrivals in the same direction, avoiding potential crashes, and avoiding deadlocks, using mutexes and semaphores.
+
+schedule.txt files are input files used for testing.
